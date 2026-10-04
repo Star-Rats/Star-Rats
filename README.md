@@ -22,6 +22,7 @@
 
 | Project | Description | Links |
 | --- | --- | --- |
+| 🖥️ **gliss** — Terminal coding agent (Go + Bubble Tea) | Streaming LLM chat, tool calling, TUI · zero SDKs · any OpenAI-compatible endpoint | [Repo](https://github.com/Star-Rats/gliss) |
 | 📝 **blog** — Personal blog system (full stack) | FastAPI + Vue 3, decoupled frontend & backend | |
 | ├─ blog-api | Backend: FastAPI · SQLAlchemy · MySQL · JWT | [Repo](https://github.com/Star-Rats/blog-api) |
 | ├─ blog-index | Main site: Vue 3 · Vite · Vue Router | [Repo](https://github.com/Star-Rats/blog-index) · [Live Demo](https://blog.jiangmingyang.com/) |
